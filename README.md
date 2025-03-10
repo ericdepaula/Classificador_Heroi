@@ -3,8 +3,8 @@
 Este desafio tem como objetivo criar um classificador de nível para heróis baseado na quantidade de experiência (XP) adquirida. Utilizando variáveis, operadores, laços de repetição e estruturas de decisão, o sistema determina em qual categoria de nível o herói se encontra.
 
 ## Tecnologias Utilizadas
-<img src="https://github.com/user-attachments/assets/6da83f7d-643d-472e-8f48-f55ca6e2344e" width=180px title="Node.js"/>
-<img src="https://github.com/user-attachments/assets/efcd142f-f2fa-46ad-80ee-8e66fa53cd23" width=180px title="Node Package Manager"/>
+<img src="https://github.com/user-attachments/assets/6da83f7d-643d-472e-8f48-f55ca6e2344e" width=150px title="Node.js"/>
+<img src="https://github.com/user-attachments/assets/efcd142f-f2fa-46ad-80ee-8e66fa53cd23" width=150px title="Node Package Manager"/>
 
 - **Node.js**
 - **Prompt-sync** (pacote para entrada de dados no terminal)
