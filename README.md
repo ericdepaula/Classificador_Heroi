@@ -28,7 +28,7 @@ Ao final, o sistema exibe a mensagem com o nome do herói e seu nível correspon
 
 1. Certifique-se de ter o **Node.js** instalado. Caso não tenha, você pode baixar e instalar [aqui](https://nodejs.org/).
 2. Crie um arquivo `.js`, por exemplo `classificador.js`, e cole o código fornecido nele.
-3. 3. Instale o pacote `prompt-sync` utilizando o seguinte comando:
+3. Instale o pacote `prompt-sync` utilizando o seguinte comando:
 
     ```bash
     npm install prompt-sync
